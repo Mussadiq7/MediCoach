@@ -1,0 +1,14 @@
+Flask
+numpy
+Pillow
+tensorflow
+gunicorn
+matplotlib
+seaborn
+missingno
+scikit-learn
+statsmodels
+tqdm
+scipy
+keras
+xgboost
